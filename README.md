@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Nishant Minhas, a B.Tech CSE student specialization in Cyber Security.<br><br>I love exploring the world of Cyber Security and building projects that enhance security awareness. <br>I also have experience working with C,  C++, Python and Java, with Java being the language I'm currently learning.<br><br>My repositories includes projects on Cyber Security, programming challenges and more--feel free to explore them!. I hope you find something useful here.<br>Let's connect and collaborate on exciting projects!
+Hi, I'm Nishant Minhas, a B.Tech CSE student specialization in Cyber Security.<br><br>I love exploring the world of Cyber Security and building projects that enhance security awareness. <br>I also have experience working with C,  C++, Python and Java.<br><br>My repositories includes projects on Cyber Security, programming challenges and more--feel free to explore them!. I hope you find something useful here.<br>Let's connect and collaborate on exciting projects!
 
 
 ## 🌐 Socials:
